@@ -1,9 +1,10 @@
 ##Alesia Branvitskaya
+
 *Junior Front-end Developer*
 
 ---
 
-######*Contacts*
+####*Contacts*
 
 > Phone number: +375 (44) 580-48-22
 
@@ -15,7 +16,7 @@
 
 ---
 
-######*Personal Profile*
+####*Personal Profile*
 
 Hello. My name is Alesia. And I want to introduce yourself to you.
 
@@ -25,7 +26,7 @@ I would like to work in IT because this sphere is interesting. IT growths fast. 
 
 ---
 
-######*Professional Skills*
+####*Professional Skills*
 
 | Skills     |  Level   |
 | :--------- | :------: |
@@ -38,7 +39,7 @@ I would like to work in IT because this sphere is interesting. IT growths fast. 
 
 ---
 
-######*Code*
+####*Code*
 
 ---
 
@@ -66,7 +67,7 @@ function createAnswers () {
 
 ---
 
-######*Projects*
+####*Projects*
 
 ---
 
@@ -84,21 +85,25 @@ Code for example.
 
 ---
 
-######*Education*
+####*Education*
 
 ---
 
 > BSU
+
 > Web-designer-programmer
+
 > 2017-2019
 
 > BNTU
+
 > Accountant
+
 > 2009-2014
 
 ---
 
-######*English*
+####*English*
 
 ---
 
