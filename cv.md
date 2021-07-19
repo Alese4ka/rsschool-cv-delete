@@ -1,10 +1,12 @@
-##Alesia Branvitskaya
+Alesia Branvitskaya
+=======
 
 *Junior Front-end Developer*
 
 ---
 
-####*Contacts*
+*Contacts*
+-----------
 
 > Phone number: +375 (44) 580-48-22
 
@@ -16,17 +18,23 @@
 
 ---
 
-####*Personal Profile*
+*Personal Profile*
+-----------
 
-Hello. My name is Alesia. And I want to introduce yourself to you.
+Hello. My name is Alesia.
+And I want to introduce yourself to you.
 
-My soft skills are _analitics, responsobility, quickly learning_. I _enjoy to learn_ more and more information.
+My soft skills are _analitics, responsobility, quickly learning_. 
+I _enjoy to learn_ more and more information.
 
-I would like to work in IT because this sphere is interesting. IT growths fast. And it is never be boring. _I may learning new and lever up my skills_.
+I would like to work in IT because this sphere is interesting. 
+IT growths fast. And it is never be boring. 
+_I may learning new and lever up my skills_.
 
 ---
 
-####*Professional Skills*
+*Professional Skills*
+-----------
 
 | Skills     |  Level   |
 | :--------- | :------: |
@@ -39,7 +47,8 @@ I would like to work in IT because this sphere is interesting. IT growths fast. 
 
 ---
 
-####*Code*
+*Code*
+-----------
 
 ---
 
@@ -67,7 +76,8 @@ function createAnswers () {
 
 ---
 
-####*Projects*
+*Projects*
+-----------
 
 ---
 
@@ -85,25 +95,27 @@ Code for example.
 
 ---
 
-####*Education*
+*Education*
+-----------
 
 ---
 
 > BSU
 
-> Web-designer-programmer
+Web-designer-programmer
 
-> 2017-2019
+2017-2019
 
 > BNTU
 
-> Accountant
+Accountant
 
-> 2009-2014
+2009-2014
 
 ---
 
-####*English*
+*English*
+-----------
 
 ---
 
