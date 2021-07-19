@@ -5,7 +5,7 @@ _Junior Front-end Developer_
 
 ######_Contacts_
 
-> Mobile phone: +375 (44) 580-48-22
+> Phone number: +375 (44) 580-48-22
 
 > Email: alesun4ik@gmail.com
 
