@@ -1,9 +1,9 @@
 ##Alesia Branvitskaya
-_Junior Front-end Developer_
+*Junior Front-end Developer*
 
 ---
 
-######_Contacts_
+######*Contacts*
 
 > Phone number: +375 (44) 580-48-22
 
@@ -15,7 +15,7 @@ _Junior Front-end Developer_
 
 ---
 
-######_Personal Profile_
+######*Personal Profile*
 
 Hello. My name is Alesia. And I want to introduce yourself to you.
 
@@ -25,7 +25,7 @@ I would like to work in IT because this sphere is interesting. IT growths fast. 
 
 ---
 
-######_Professional Skills_
+######*Professional Skills*
 
 | Skills     |  Level   |
 | :--------- | :------: |
@@ -36,21 +36,9 @@ I would like to work in IT because this sphere is interesting. IT growths fast. 
 | SQL        | Beginner |
 | Wordpress  |  Middle  |
 
-> - HTML
-
-> - CSS
-
-> - JavaScript
-
-> - Git
-
-> - SQL
-
-> - Wordpress
-
 ---
 
-######_Code_
+######*Code*
 
 ---
 
@@ -78,7 +66,7 @@ function createAnswers () {
 
 ---
 
-######_Projects_
+######*Projects*
 
 ---
 
@@ -96,7 +84,7 @@ Code for example.
 
 ---
 
-######_Education_
+######*Education*
 
 ---
 
@@ -110,10 +98,10 @@ Code for example.
 
 ---
 
-######_English_
+######*English*
 
 ---
 
-My English level is _Pre-intermediate._
+My English level is *Pre-Intermediate*.
 
 I gratuated two courses in Streamline and one course in english-tochka.ru
