@@ -16,7 +16,6 @@ Alesia Branvitskaya
 
 > Telegram: @alesun4ik
 
----
 
 *Personal Profile*
 -----------
@@ -31,7 +30,6 @@ I would like to work in IT because this sphere is interesting.
 IT growths fast. And it is never be boring. 
 _I may learning new and lever up my skills_.
 
----
 
 *Professional Skills*
 -----------
@@ -45,12 +43,9 @@ _I may learning new and lever up my skills_.
 | SQL        | Beginner |
 | Wordpress  |  Middle  |
 
----
 
 *Code*
 -----------
-
----
 
 ```
 function createAnswers () {
@@ -74,12 +69,9 @@ function createAnswers () {
 }
 ```
 
----
 
 *Projects*
 -----------
-
----
 
 The first project was e-commerce web-site. It was a diploma project.
 
@@ -93,31 +85,25 @@ Code for example.
 
 > https://github.com/Alese4ka/Example.git
 
----
 
 *Education*
 -----------
 
----
-
 > BSU
 
-Web-designer-programmer
+  Web-designer-programmer
 
-2017-2019
+  2017-2019
 
 > BNTU
 
-Accountant
+  Accountant
 
-2009-2014
+  2009-2014
 
----
 
 *English*
 -----------
-
----
 
 My English level is *Pre-Intermediate*.
 
