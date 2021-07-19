@@ -116,4 +116,4 @@ Code for example.
 
 My English level is _Pre-intermediate._
 
-I gratuated courses in Streamline and english-tochka.ru
+I gratuated two courses in Streamline and one course in english-tochka.ru
