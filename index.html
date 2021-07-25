@@ -4,13 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>CV</title>
 </head>
 <body>
     <header>
-        <div class="cv-image">
-            <img src="https://drive.google.com/file/d/1TICeUniMvssqbZeHgnNmEKfhuPSv-JMP/view?usp=sharing" alt="cv-image">
-        </div>
+        <figure>
+            <img src="https://i.ibb.co/RBHdpKz/cv-large.png" alt="cv-large">
+        </figure>
         <div class="head-info">
             <h1>Alesia Branavitskaya</h1>
             <h2>Junior Front-end Developer</h2>
@@ -21,7 +22,7 @@
         <section class="left-block">
             <div class="contacts">
                 <h4>Contacts</h4>
-                <ul>
+                <ul class="list-contacts">
                     <li><label>Phone number: +375 (44) 580-48-22</label></li>
                     <li><label>Email: alesun4ik@gmail.com</label></li>
                     <li><label>LinkedIn: www.linkedin.com/in/branavitskayaa</label></li>
@@ -30,61 +31,53 @@
             </div>
             <div class="about">
                 <h4>About</h4>
-                <p>Hello. My name is Alesia. And I want to introduce yourself to you.
-                    My soft skills are analitics, responsobility, quickly learning. I enjoy to learn more and more information.
-                    I would like to work in IT because this sphere is interesting. IT growths fast. And it is never be boring. I may learning new and lever up my skills.
-                </p>
+                <div class="info-about">
+                    <And>Hello. My name is Alesia. And I want to introduce yourself to you.</p>
+                    <p>My soft skills are analitics, responsobility, quickly learning. I enjoy to learn more and more information.
+                        I would like to work in IT because this sphere is interesting. IT growths fast. And it is never be boring. I may learning new and lever up my skills.</p>
+                </div>
             </div>
             <div class="education">
                 <h4>Education</h4>
-                <p>BSU
-                    Web-designer-programmer
-                    
-                    2017-2019
-                </p>
-                <p>
-                    BNTU
-                    Accountant
-                    
-                    2009-2014
-                </p>
+                <ul class="list-education">
+                    <li><label>BSU <p>Web-designer-programmer 2017-2019</p></label></li>
+                    <li><label>BNTU<p>Accountant 2009-2014</p></label></li>
+                </ul>
             </div>
         </section>
 
         <section class="right-block">
             <div class="experience">
-                <h3>Experience</h3>
+                <h4>Experience</h4>
                 <ol>
-                    <li><label>The first project was e-commerce web-site. It was a diploma project.<a href="https://drive.google.com/file/d/1UKcFODRAFxpXP7BixgRJEbMaEHzkcaaF/view?usp=sharing">Link</a></label></li>
-                    <li><label>The second project was e-commerce web-site also.<a href="http://www.alesun8j.beget.tech/">Link</a></label></li>
-                    <li><label>Code for example.<a href="https://github.com/Alese4ka/Example.git">Link</a></label></li>
+                    <li><label>The first project was e-commerce web-site. It was a diploma project. <a href="https://drive.google.com/file/d/1UKcFODRAFxpXP7BixgRJEbMaEHzkcaaF/view?usp=sharing">Link</a></label></li>
+                    <li><label>The second project was e-commerce web-site also. <a href="http://www.alesun8j.beget.tech/">Link</a></label></li>
+                    <li><label>Code for example. <a href="https://github.com/Alese4ka/Example.git">Link</a></label></li>
                 </ol>
             </div>
             <div class="skills">
-                <h3>Skills</h3>
-                <ul>
-                    <li><label>HTML</label></li>
-                    <li><label>CSS</label></li>
-                    <li><label>JavaScript</label></li>
-                    <li><label>Git</label></li>
-                    <li><label>SQL</label></li>
-                    <li><label>Wordpress</label></li>
-                    <li><label>PHP</label></li>
+                <h4>Skills</h4>
+                <ul class="list-skills">
+                    <li><label>HTML &#128386; &#128386; &#128386; &#128386; &#128386;</label></li>
+                    <li><label>CSS &#128386; &#128386; &#128386; &#128386; &#128386;</label></li>
+                    <li><label>JavaScript &#128386; &#128386;</label></li>
+                    <li><label>Git &#128386; &#128386;</label></li>
+                    <li><label>SQL &#128386; &#128386;</label></li>
+                    <li><label>Wordpress &#128386; &#128386; &#128386;</label></li>
+                    <li><label>PHP &#128386;</label></li>
                 </ul>
             </div>
             <div class="languages">
-                <h3>Languages</h3>
-                <p>English</p>
-                <p>Pre-intermediate</p>
+                <h4>Languages</h4>
+                <p>English - Pre-intermediate</p>
             </div>
         </section>
     </main>
 
     <footer>
-        <a href="https://github.com/Alese4ka">Github</a>
-        <p>2021</p>
-        <img src="https://rs.school/images/rs_school_js.svg"
-        ><a href="https://rs.school/js/"></a>
+        <a href="https://github.com/Alese4ka" class="github">Github</a>
+        <p class="year">2021</p>
+        <a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" width="45" height="45"></a>
     </footer>
 </body>
 </html>
