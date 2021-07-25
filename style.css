@@ -1,7 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400&display=swap");
+
 body {
   width: 70%;
   margin: 40px auto;
   font-size: 18px;
+  font-family: "Hind Siliguri", sans-serif;
 }
 
 p {
@@ -24,6 +27,7 @@ main {
 
 figure {
   align-items: flex-start;
+  margin-inline-start: 0px;
 }
 
 .head-info {
@@ -35,23 +39,24 @@ figure {
   margin-right: 100px;
 }
 
-h4 {
+h3 {
   display: inline;
-  background-color: #8399ae;
-  color: #ffffff;
+  background-color: #cde1f3;
   width: 210px;
   height: 20px;
   border-radius: 0 50px 0px 50px;
 }
 
-.info-about {
+.info-about,
+.english-level {
   padding: 20px;
-  margin-top: 20px;
+  margin-left: 20px;
 }
 
 .list-contacts {
   padding: 0px 0px 0px 40px;
   margin-top: 20px;
+  margin-left: 20px;
 }
 
 .right-block {
@@ -64,9 +69,25 @@ a {
   font-style: italic;
 }
 
+.skills {
+  margin-top: 50px;
+}
+
+.skill-levels {
+  display: flex;
+}
+
+.list-experience {
+  margin-left: 15px;
+}
+
 .list-skills > li,
-.list-education > li {
+.levels > li {
   list-style-type: none;
+}
+
+.list-education {
+  margin: 20px 0px 20px 40px;
 }
 
 footer {
@@ -78,6 +99,5 @@ footer {
 
 .github,
 .year {
-  color: black;
   margin-top: 10px;
 }
