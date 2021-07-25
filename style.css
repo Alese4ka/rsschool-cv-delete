@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400&display=swap");
+
+body {
+  width: 70%;
+  margin: 40px auto;
+  font-size: 18px;
+  font-family: "Hind Siliguri", sans-serif;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+h2 {
+  color: #606060;
+}
+
+header,
+main {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+}
+
+figure {
+  align-items: flex-start;
+  margin-inline-start: 0px;
+}
+
+.head-info {
+  align-items: flex-start;
+}
+
+.left-block {
+  flex-basis: 40%;
+  margin-right: 100px;
+}
+
+h3 {
+  display: inline;
+  background-color: #cde1f3;
+  width: 210px;
+  height: 20px;
+  border-radius: 0 50px 0px 50px;
+}
+
+.info-about,
+.english-level {
+  padding: 20px;
+  margin-left: 20px;
+}
+
+.list-contacts {
+  padding: 0px 0px 0px 40px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.right-block {
+  flex-basis: 60%;
+}
+
+a {
+  text-decoration: none;
+  color: #606060;
+  font-style: italic;
+}
+
+.skills {
+  margin-top: 50px;
+}
+
+.skill-levels {
+  display: flex;
+}
+
+.list-experience {
+  margin-left: 15px;
+}
+
+.list-skills > li,
+.levels > li {
+  list-style-type: none;
+}
+
+.list-education {
+  margin: 20px 0px 20px 40px;
+}
+
+footer {
+  border-top: solid 2px#606060;
+  display: flex;
+  background-color: #ffffff;
+  justify-content: space-around;
+}
+
+.github,
+.year {
+  margin-top: 10px;
+}
