@@ -1,3 +1,3 @@
 # rsschool-cv
 CV
-https://Alese4ka.github.io/rsschool-cv
+https://Alese4ka.github.io/rsschool-cv/cv
